@@ -21,3 +21,6 @@ EDA involved the exploring of the Data to answer some queries such as;
 - Among the shopping device, which is the highest?
 - What product-category has the highest satisfaction and frequency in demand?
 - What product-category has the highest demand?
+
+### Data Visualization
+![visuals](https://1drv.ms/u/c/328c4bd9b85b714b/EY9HgMuQJelKhmlULZMA-T0BIUbZM5f890NIsQRMD8Z7XQ?e=nExePt)
