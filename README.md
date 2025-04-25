@@ -23,4 +23,3 @@ EDA involved the exploring of the Data to answer some queries such as;
 - What product-category has the highest demand?
 
 ### Data Visualization
-![visuals](https://1drv.ms/u/c/328c4bd9b85b714b/EY9HgMuQJelKhmlULZMA-T0BIUbZM5f890NIsQRMD8Z7XQ?e=nExePt)
