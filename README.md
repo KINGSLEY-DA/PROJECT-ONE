@@ -23,3 +23,4 @@ EDA involved the exploring of the Data to answer some queries such as;
 - What product-category has the highest demand?
 
 ### Data Visualization
+![visualization](https://github.com/KINGSLEY-DA/PROJECT-ONE/blob/main/ECOMMERCE%20PROJECT.pbix)
