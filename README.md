@@ -14,3 +14,10 @@ The primary Source of Data used here is ECOMMERCE_CONSUMER_BEHAVIOUR and this is
 - Power BI for Visualization,
 - SQL - Structured Query Language for Querying of Data,
 - GitHub for Portfolio Building.
+
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some queries such as;
+- What month has the highest sales?
+- Among the shopping device, which is the highest?
+- What product-category has the highest satisfaction and frequency in demand?
+- What product-category has the highest demand?
