@@ -24,3 +24,7 @@ EDA involved the exploring of the Data to answer some queries such as;
 
 ### Data Visualization
 !(visualizations)https://github.com/KINGSLEY-DA/PROJECT-ONE/blob/main/ECOMMERCE%20PROJECT.pbix
+
+### Observations 
+Among the product-category, Jewelry & Accessories has the highest purchase but the frequency of the demand is lesser than the electronics which has the highest frequency.
+
