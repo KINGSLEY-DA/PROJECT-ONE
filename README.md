@@ -1,5 +1,5 @@
 # PROJECT-ONE
-### PROJECT TITLE: ECOMMERCE-CONSUMER-BEHAVIOUR
+### PROJECT TITLE: E-COMMERCE-CONSUMER-BEHAVIOUR
 ### PROJECT OVERVIEW
 This Data Analysis Project aims at providing information of the various product-category and their demands for different months. It analysis is bases on the product-category, customer satisfaction, Amount purchase for the months e.t.c. This help the firm to determine what product-category should be focus on more and also location involve in the distribution which is also use in determination of the cost incurred.
 
